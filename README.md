@@ -78,7 +78,7 @@ Inspect the threshold sweep to determine whether reducing the reported disparity
 ## AI Use Statement
 
 **Statement: ChatGPT was used to complete this homework. The full chat is available at:**  
-[PUBLIC-URL-OF-FULL-CHAT]
+(https://chatgpt.com/share/6ad28c84-db6c-83ea-a362-5f6b0d0ccfcd)
 
 ChatGPT was used **only to generate and format this README.md documentation**. It was not used to write the homework code, perform the analysis, or produce the results.
 
