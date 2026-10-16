@@ -82,7 +82,7 @@ Inspect the threshold sweep to determine whether reducing the reported disparity
 
 ChatGPT was used **only to generate and format this README.md documentation**. It was not used to write the homework code, perform the analysis, or produce the results.
 
-> Replace `[PUBLIC-URL-OF-FULL-CHAT]` with your public ChatGPT conversation share link before submitting. The course requires the full chat to be publicly accessible.
+
 
 ## Running the Notebooks
 
